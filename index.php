@@ -5,7 +5,7 @@
 * @author : Raden JecXploiter <-- nitip nama kalo mau share script Hhe..
 * @link : http://sd-sec.my.id
 * @copyright : SD-SecTeam <-- Padahal Grup cuman 1 orang :v gw doang xixixi.
-* @license : MIT (https://github.com/JecXploiter/md5cracking/blob/main/LICENSE)
+* @license : under MIT (https://github.com/JecXploiter/md5cracking/blob/main/LICENSE)
 */
 
 error_reporting(0); // berhenti menampilkan pesan Error
