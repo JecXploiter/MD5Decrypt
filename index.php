@@ -1,12 +1,11 @@
 <?php
 
 /**
-*
 * @package : MD5 Crack & Hashing
 * @author : Raden JecXploiter <-- nitip nama kalo mau share script Hhe..
 * @link : http://sd-sec.my.id
 * @copyright : SD-SecTeam <-- Padahal Grup cuman 1 orang :v gw doang xixixi.
-*
+* @license : MIT (https://github.com/JecXploiter/md5cracking/blob/main/LICENSE)
 */
 
 error_reporting(0); // berhenti menampilkan pesan Error
@@ -142,9 +141,6 @@ error_reporting(0); // berhenti menampilkan pesan Error
 				  <h4 class="card-title mb-0">Donation</h4>
 				  <small class="text-muted mb-3">Yang sedikit bagi Anda sangat berarti banyak bagi Saya</small>
 				  <p>Dana/Gopay/Pulsa : <span class="text-primary">083820979882</span><br>Atau : <a href="https://saweria.co/jecangel" target="blank">https://saweria.co/jecangel</a></p>
-				  <h4 class="card-title mb-0">Download</h4>
-				  <small class="text-muted mb-3">Jangan lupa untuk mengunduh disini.</small>
-				  <p><a href="https://www.mediafire.com/file/na8xddc1o3kj9li/md5tools.php/file" target="blank">Mediafire</a><br><a href="https://resulinfo.net/I7Sst" target="blank">Realsht.mobi</a> <span class="text-muted">[ Disarankan ]</span><br><a href="https://duit.cc/gMp" target="blank">Duit.cc</a> <span class="text-muted">[ Donasi ]</span><br><a href="https://cararegistrasi.com/cm1V" target="blank">Safelinku</a> <span class="text-muted">[ Donasi ]</span></p>
 				  <p>Bila Ada pertanyaan silahkan Hubungi : <a href="https://wa.me/13312147730" target="blank">Whatsapp</a> / <a href="https://facebook.com/yunus.zombies.7" target="blank">Facebook</a></p>
 			  </div>
 		  </div>
